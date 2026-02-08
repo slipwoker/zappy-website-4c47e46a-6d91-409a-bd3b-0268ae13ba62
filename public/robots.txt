@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ballg-4c47e46a.zappy5.app/sitemap.xml
